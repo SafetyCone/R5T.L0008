@@ -1,0 +1,4 @@
+R5T.L0008.Extensions - Extensions and additional functionality library for the MimeKit Nuget package.
+
+Goals
+
