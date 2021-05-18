@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Code\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\R5T.L0008\R5T.L0008.csproj" />
   </ItemGroup>
 
